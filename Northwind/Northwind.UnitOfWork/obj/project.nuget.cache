@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IXqCqUThNLwO+24xMdU0DBt6Ir1yQJE/VSJKS/e4Zi3kMkEmcvNWgSJowd20qih8uO32ldUvYL8POHQf27KOdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\darko\\Documents\\2020-2\\Northwind\\Northwind\\Northwind.UnitOfWork\\Northwind.UnitOfWork.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\darko\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\darko\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
