@@ -1,0 +1,7 @@
+C:\Users\darko\Documents\2020-2\Northwind\Northwind\Northwind.DataAccess\bin\Debug\netstandard2.0\Northwind.DataAccess.deps.json
+C:\Users\darko\Documents\2020-2\Northwind\Northwind\Northwind.DataAccess\bin\Debug\netstandard2.0\Northwind.DataAccess.dll
+C:\Users\darko\Documents\2020-2\Northwind\Northwind\Northwind.DataAccess\obj\Debug\netstandard2.0\Northwind.DataAccess.csprojAssemblyReference.cache
+C:\Users\darko\Documents\2020-2\Northwind\Northwind\Northwind.DataAccess\obj\Debug\netstandard2.0\Northwind.DataAccess.AssemblyInfoInputs.cache
+C:\Users\darko\Documents\2020-2\Northwind\Northwind\Northwind.DataAccess\obj\Debug\netstandard2.0\Northwind.DataAccess.AssemblyInfo.cs
+C:\Users\darko\Documents\2020-2\Northwind\Northwind\Northwind.DataAccess\bin\Debug\netstandard2.0\Northwind.Models.dll
+C:\Users\darko\Documents\2020-2\Northwind\Northwind\Northwind.DataAccess\bin\Debug\netstandard2.0\Northwind.Repositories.dll
